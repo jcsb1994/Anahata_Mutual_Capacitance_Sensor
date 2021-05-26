@@ -1,32 +1,31 @@
-# Prerequisites
-*.d
+# Altium ----------------------------------------
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+Anahata_PCB/Project*/*
+Anahata_PCB/History/*
+Anahata_PCB/__Previews/*
+Anahata_PCB/*.htm
 
-# Precompiled Headers
-*.gch
-*.pch
+# PSOC Creator ----------------------------------------
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# ignore PSoC Creator workspaces
+*.cywrk
 
-# Fortran module files
-*.mod
-*.smod
+# folders generated after build (any PSoC series)
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+Anahata*/Generated_Source/*
+Anahata*/Cortex*/*
+Anahata*/codegentemp/*
+Anahata*/Export/*
 
-# Executables
-*.exe
-*.out
-*.app
+# Ignore files generated after project build
+
+*.cycdx
+*.cyfit
+*.rpt
+*.log
+
+# Ignoring OneDrive version of project file
+
+*cyprj.*
+*cywrk.*
+ 
