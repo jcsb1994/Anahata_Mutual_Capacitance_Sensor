@@ -1,9 +1,9 @@
 # Altium ----------------------------------------
 
-Anahata_PCB/Project*/*
-Anahata_PCB/History/*
-Anahata_PCB/__Previews/*
-Anahata_PCB/*.htm
+*_PCB/Project*/*
+*_PCB/History/*
+*_PCB/__Previews/*
+*_PCB/*.htm
 
 # PSOC Creator ----------------------------------------
 
