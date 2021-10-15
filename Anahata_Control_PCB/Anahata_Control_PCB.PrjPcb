@@ -139,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PIIUYRSI
 
 [Document7]
 DocumentPath=Pads.SchLib
@@ -156,7 +156,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IEMMVUVW
 
 [Document8]
 DocumentPath=Power.SchDoc
@@ -208,6 +208,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VANLZUIW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Anahata_Control_PCB\Design Rule Check - Anahata_Control_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
