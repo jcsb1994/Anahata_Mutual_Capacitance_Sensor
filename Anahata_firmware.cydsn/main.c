@@ -28,15 +28,6 @@ int main(void)
     
     CapSense_ScanAllWidgets();
     
-    for(int i = 0; i < 5; i++)
-    {
-        
-        ledPin_Write(1);
-        CyDelay(100);
-        
-        ledPin_Write(0);
-        CyDelay(100);
-    }
     
     for(;;)
     {
